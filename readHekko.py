@@ -1,4 +1,4 @@
-file = open('jungjunhee.txt','rt')
+file = open('Jungjunhee.txt','rt')
 
 str = file.read()
 print(str,end='')

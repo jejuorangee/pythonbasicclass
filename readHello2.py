@@ -1,4 +1,4 @@
-file = open('jungjunhee.txt','rt')
+file = open('Jungjunhee.txt','rt')
 
 while True:
     str = file.read(5)
